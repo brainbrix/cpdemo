@@ -1,6 +1,6 @@
 package com.brainsporthero.cp.pythagoras;
 
-public class PythagreanLoops {
+public class PythagoreanLoops {
     public static void main(String[] args)  {
 
         int a, b, c;
