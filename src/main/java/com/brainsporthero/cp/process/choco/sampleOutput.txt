@@ -1,0 +1,25 @@
+/Library/Java/JavaVirtualMachines/zulu-21.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=65496 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/hsp/projects/cp/cp/target/classes:/Users/hsp/.m2/repository/org/choco-solver/choco-solver/4.10.18/choco-solver-4.10.18.jar:/Users/hsp/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/hsp/.m2/repository/org/jgrapht/jgrapht-core/1.4.0/jgrapht-core-1.4.0.jar:/Users/hsp/.m2/repository/org/jheaps/jheaps/0.11/jheaps-0.11.jar:/Users/hsp/.m2/repository/org/ehcache/sizeof/0.4.3/sizeof-0.4.3.jar:/Users/hsp/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/hsp/.m2/repository/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar:/Users/hsp/.m2/repository/de/vandermeer/asciitable/0.3.2/asciitable-0.3.2.jar:/Users/hsp/.m2/repository/de/vandermeer/ascii-utf-themes/0.0.1/ascii-utf-themes-0.0.1.jar:/Users/hsp/.m2/repository/de/vandermeer/skb-interfaces/0.0.1/skb-interfaces-0.0.1.jar:/Users/hsp/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/hsp/.m2/repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar:/Users/hsp/.m2/repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar:/Users/hsp/.m2/repository/org/antlr/antlr4/4.5.1/antlr4-4.5.1.jar:/Users/hsp/.m2/repository/de/vandermeer/char-translation/0.0.2/char-translation-0.0.2.jar com.brainsporthero.cp.process.Main
+[A1][A1][A1][A2][A2][A2][A3][A3][A3][A4][A4][C1][C1][C1][C2][C2][C2][C3][C3][C4][C4][C4][E1][E1][E2][E2][E2][E3][E3][E4][E4][E4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[A1][A1][A1][A2][A2][A2][A3][A3][A3][A4][A4][C1][C1][C1][C2][C2][C2][C3][C3][C4][C4][C4][E1][E1][E2][E2][E2][E3][E3][E4][E4][E4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[B1][B1][B2][B2][B2][B3][B3][B3][B4][B4][B4][D1][D1][__][C2][C2][C2][D3][D3][C4][C4][C4][E1][E1][E2][E2][E2][E3][E3][E4][E4][E4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[B1][B1][B2][B2][B2][B3][B3][B3][B4][B4][B4][D1][D1][D2][D2][D2][__][D3][D3][D4][D4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[__][__][B2][B2][B2][B3][B3][B3][B4][B4][B4][__][__][D2][D2][D2][__][D3][D3][D4][D4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+
+MaxTime: 32
+Optimale Lösung gefunden (minimales Ende aller Prozesse):
+Gesamte Endzeit: 28
+
+[A1][A1][A1][C1][C1][D1][C2][C2][C2][D2][E3][C3][C3][B1][B1][C4][B2][A2][A2][A2][A3][A3][A3][A4][A4][B4][B4][B4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[A1][A1][A1][C1][C1][D1][C2][C2][C2][D2][E3][C3][C3][B1][B1][C4][B2][A2][A2][A2][A3][A3][A3][A4][A4][B4][B4][B4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][C1][E2][E2][E2][C2][C2][C2][E3][E3][D3][D3][C4][C4][C4][B2][B2][B2][E4][E4][E4][B3][B3][B3][B4][B4][B4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][C1][E2][E2][E2][D1][D2][D2][E3][__][D3][D3][C4][C4][D4][D4][B2][B2][E4][E4][E4][B3][B3][B3][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][__][E2][E2][E2][D1][D2][D2][E3][__][D3][D3][C4][C4][D4][D4][B2][B2][E4][E4][E4][B3][B3][B3][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+
+Optimale Lösung gefunden (minimales Ende aller Prozesse):
+Gesamte Endzeit: 27
+
+[A1][A1][A1][B1][B1][B2][B2][B2][B3][B3][B3][B4][B4][A2][A2][A2][C2][C3][C3][A3][A3][A3][D4][D4][A4][A4][C4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[A1][A1][A1][B1][B1][B2][B2][B2][B3][B3][B3][B4][B4][A2][A2][A2][C2][C3][C3][A3][A3][A3][D4][D4][A4][A4][C4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][E2][E2][E2][B2][B2][B2][B3][B3][B3][B4][B4][B4][C2][C2][C2][E3][E3][D3][D3][E4][E4][E4][C4][C4][C4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][E2][E2][E2][C1][C1][C1][D1][D1][D2][D2][D2][B4][C2][C2][__][E3][E3][D3][D3][E4][E4][E4][C4][C4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
+[E1][E1][E2][E2][E2][C1][C1][C1][D1][D1][D2][D2][D2][B4][C2][C2][__][E3][E3][D3][D3][E4][E4][E4][C4][C4][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__][__]
